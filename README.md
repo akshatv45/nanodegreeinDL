@@ -1,6 +1,6 @@
 # nanodegreeinDL
 # Udacity Deep Learning Nanodegree
-# View my credential at - https://graduation.udacity.com/confirm/4R96HNAHhttps://graduation.udacity.com/confirm/4R96HNAH
+View my credential at - https://graduation.udacity.com/confirm/4R96HNAHhttps://graduation.udacity.com/confirm/4R96HNAH
 
 class: https://classroom.udacity.com/nanodegrees/nd101
 
